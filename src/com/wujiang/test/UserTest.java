@@ -17,6 +17,7 @@ import com.wujiang.domain.User;
 import com.wujiang.domain.UserGroupLink;
 
 
+
 public class UserTest {
 
     private final static String IBATIS_CONFIG_XML  = "com/wujiang/configuration/sqlMapConfig.xml"; 
